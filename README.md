@@ -59,17 +59,3 @@
 <div align="center">
   <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdkd2d0ZGV5ZzZjcHZhdndlcWQ4OXpvZ2d4cnlvZ3FtZG1nOTBlbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Daniel-Willian-Silva/Daniel-Willian-Silva/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-Willian-Silva/Daniel-Willian-Silva/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel-Willian-Silva/Daniel-Willian-Silva/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Daniel-Willian-Silva/Daniel-Willian-Silva/output/pacman-contribution-graph.svg">
-</picture>
-
-###
