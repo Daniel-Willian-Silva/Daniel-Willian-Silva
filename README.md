@@ -40,6 +40,12 @@
 ###
 
 <div align="center">
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdkd2d0ZGV5ZzZjcHZhdndlcWQ4OXpvZ2d4cnlvZ3FtZG1nOTBlbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/zack-willian-ab6a36363/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -55,7 +61,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdkd2d0ZGV5ZzZjcHZhdndlcWQ4OXpvZ2d4cnlvZ3FtZG1nOTBlbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
