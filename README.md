@@ -46,10 +46,10 @@
   <a href="https://www.instagram.com/zack_privacy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="WA.me/5581994004936" target="_blank">
+  <a href="https://wa.me/5581994004936?text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9.....%20e%20quero%20conversar%20com%20voc%C3%AA%20dobre...." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="danielwilliandasilva@gmail.com" target="_blank">
+  <a href="mailto:danielwilliandasilva@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
