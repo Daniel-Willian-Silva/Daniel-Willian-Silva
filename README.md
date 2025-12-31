@@ -33,13 +33,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Daniel-Willian-Silva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-Willian-Silva&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
   <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdkd2d0ZGV5ZzZjcHZhdndlcWQ4OXpvZ2d4cnlvZ3FtZG1nOTBlbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
