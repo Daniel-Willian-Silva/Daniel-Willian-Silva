@@ -7,7 +7,7 @@
 Estou cursando Sistemas de Informação e buscando oportunidades na área de back-end. Estou no nivel intermediario do Python e tenho experiencia com Flask, Pandas, Matplotlib e Tkinter; Além da minha linguagem primaria citada anteriormente, tenho um domínio intermediario de HTML, CSS, javascript , git e Linux (de base Ubuntu).
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/zack-willian-ab6a36363/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-william-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:danielwilliandasilva@gmail.com">
