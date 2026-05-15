@@ -10,7 +10,7 @@ Estou cursando Sistemas de Informação e buscando oportunidades na área de bac
   <a href="https://www.linkedin.com/in/daniel-william-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:danielwilliandasilva@gmail.com">
+ <a href="mailto:danielwilliandasilva@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
  <a href="https://wa.me/5581994004936?text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9.....%20e%20quero%20conversar%20com%20voc%C3%AA%20dobre...." target="_blank">
