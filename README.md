@@ -3,10 +3,8 @@
 🚀 **Junior Software Engineer | Python & **  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I’m a junior developer specialized in Python, working in backend development and data analysis, with a strong focus on architecture,
+performance, clean code, and business-oriented solutions.
 
 ---
 
@@ -17,11 +15,16 @@ I also create content and share knowledge on **software development, SaaS, and t
     <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" />
   </a>
   <a href="https://github.com/Daniel-Willian-Silva">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 <a href="mailto:danielwilliandasilva@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
+<a href="https://www.linkedin.com/in/daniel-william-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+
  
 ---
 
