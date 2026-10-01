@@ -7,6 +7,10 @@ I’m a junior developer specialized in Python, working in backend development a
 performance, clean code, and business-oriented solutions.
 
 ---
+🐉 if you want something more detailed, look at my website. 🐉
+
+        https://curriculodanielwillian.vercel.app/
+---
 
 ## 🌐 Where to find me
  
@@ -69,10 +73,3 @@ performance, clean code, and business-oriented solutions.
 
 > _"Code is not just about solving problems.  
 > It's about building solutions that scale, last, and generate real value."_
-
----
-
-
-🐉 if you want something more detailed, look at my website. 🐉
-
-        https://curriculodanielwillian.vercel.app/
