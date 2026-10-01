@@ -72,5 +72,7 @@ performance, clean code, and business-oriented solutions.
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+
+🐉 if you want something more detailed, look at my website. 🐉
+
+        https://curriculodanielwillian.vercel.app/
