@@ -9,8 +9,10 @@ performance, clean code, and business-oriented solutions.
 ---
 🐉 if you want something more detailed, look at my website. 🐉
 
- <a href="https://curriculodanielwillian.vercel.app/">
+ <a>
           https://curriculodanielwillian.vercel.app/
+ </a>
+ 
 ---
  
 <p align="left">
