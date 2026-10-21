@@ -11,7 +11,7 @@ performance, clean code, and business-oriented solutions.
 
  <a href="https://curriculodanielwillian.vercel.app/">
           https://curriculodanielwillian.vercel.app/
-## 🌐 Where to find me
+---
  
 <p align="left">
  <a href="https://wa.me/5581994004936">
